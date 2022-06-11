@@ -1,0 +1,25 @@
+
+.MuiDataGrid-columnHeaderTitleContainer{
+    align-items: center;
+    font-weight: bold;
+    font-style: unset;
+}
+.MuiDataGrid-columnHeadersInner{
+    font-weight: bold;
+}
+.MuiDataGrid-columnHeaders{
+    background: #e8e1e1;
+}
+.MuiSvgIcon-fontSizeMedium{
+    font-size: 45px;
+}
+.block{
+    padding: 10px;
+}
+.delete{
+    padding: 10px;
+}
+.lock{
+    padding: 10px;
+}
+
